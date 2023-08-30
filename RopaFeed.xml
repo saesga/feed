@@ -1448,5 +1448,20 @@
 <color/>
 <sales_price>25,99 USD</sales_price>
 </item>
+<item>
+<product_id>94</product_id>
+<product_group_id>1</product_group_id>
+<title>Super mini falda</title>
+<description>White basic trainers. Tag detail on the laces.</description>
+<link>https://www.storyly.io/</link>
+<image_link>https://random-feed-generator.vercel.app/images/clothes/group-11/1.jpg</image_link>
+<image_link>https://random-feed-generator.vercel.app/images/clothes/group-11/2.jpg</image_link>
+<image_link>https://random-feed-generator.vercel.app/images/clothes/group-11/3.jpg</image_link>
+<availability>in stock</availability>
+<price>$580.00</price>
+<size>42</size>
+<color/>
+<sales_price>$600.00</sales_price>
+</item>
 </channel>
 </rss>
