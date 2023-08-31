@@ -1,0 +1,199 @@
+<rss xmlns:dc="http://purl.org/dc/elements/1.1/" version="2.0">
+<channel>
+<title>Random Feed Generator</title>
+<link>https://random-feed-generator.vercel.app/api/feed</link>
+<description>product feed</description>
+<generator>random_feed_generator v1.0.0</generator>
+<docs>https://random-feed-generator.vercel.app/</docs>
+<item>
+<product_id>1</product_id>
+<product_group_id>1</product_group_id>
+<title>Falda media de cintura alta</title>
+<description>High-waist midi skirt made of a viscose blend. Featuring a slit at the hem and invisible zip fastening.</description>
+<link>https://www.storyly.io/</link>
+<image_link>https://random-feed-generator.vercel.app/images/clothes/group-1/1-6D7868.jpg</image_link>
+<image_link>https://random-feed-generator.vercel.app/images/clothes/group-1/2-6D7868.jpg</image_link>
+<image_link>https://random-feed-generator.vercel.app/images/clothes/group-1/3-6D7868.jpg</image_link>
+<image_link>https://random-feed-generator.vercel.app/images/clothes/group-1/4-6D7868.jpg</image_link>
+<availability>in stock</availability>
+<price>600.00</price>
+<size>XS</size>
+<color>#6D7868</color>
+<sales_price>680.00</sales_price>
+</item>
+<item>
+<product_id>2</product_id>
+<product_group_id>1</product_group_id>
+<title>Falda media de cintura alta</title>
+<description>High-waist midi skirt made of a viscose blend. Featuring a slit at the hem and invisible zip fastening.</description>
+<link>https://www.storyly.io/</link>
+<image_link>https://random-feed-generator.vercel.app/images/clothes/group-1/1-6D7868.jpg</image_link>
+<image_link>https://random-feed-generator.vercel.app/images/clothes/group-1/2-6D7868.jpg</image_link>
+<image_link>https://random-feed-generator.vercel.app/images/clothes/group-1/3-6D7868.jpg</image_link>
+<image_link>https://random-feed-generator.vercel.app/images/clothes/group-1/4-6D7868.jpg</image_link>
+<availability>in stock</availability>
+<price>750.00</price>
+<size>S</size>
+<color>#6D7868</color>
+<sales_price>800.00</sales_price>
+</item>
+<item>
+<product_id>3</product_id>
+<product_group_id>1</product_group_id>
+<title>Playeras</title>
+<description>High-waist midi skirt made of a viscose blend. Featuring a slit at the hem and invisible zip fastening.</description>
+<link>https://www.storyly.io/</link>
+<image_link>https://random-feed-generator.vercel.app/images/clothes/group-1/1-6D7868.jpg</image_link>
+<image_link>https://random-feed-generator.vercel.app/images/clothes/group-1/2-6D7868.jpg</image_link>
+<image_link>https://random-feed-generator.vercel.app/images/clothes/group-1/3-6D7868.jpg</image_link>
+<image_link>https://random-feed-generator.vercel.app/images/clothes/group-1/4-6D7868.jpg</image_link>
+<availability>in stock</availability>
+<price>$300.00</price>
+<size>M</size>
+<color>#6D7868</color>
+<sales_price>$380.00</sales_price>
+</item>
+<item>
+<product_id>4</product_id>
+<product_group_id>1</product_group_id>
+<title>Camiseta</title>
+<description>High-waist midi skirt made of a viscose blend. Featuring a slit at the hem and invisible zip fastening.</description>
+<link>https://www.storyly.io/</link>
+<image_link>https://random-feed-generator.vercel.app/images/clothes/group-1/1-6D7868.jpg</image_link>
+<image_link>https://random-feed-generator.vercel.app/images/clothes/group-1/2-6D7868.jpg</image_link>
+<image_link>https://random-feed-generator.vercel.app/images/clothes/group-1/3-6D7868.jpg</image_link>
+<image_link>https://random-feed-generator.vercel.app/images/clothes/group-1/4-6D7868.jpg</image_link>
+<availability>in stock</availability>
+<price>550</price>
+<size>L</size>
+<color>#6D7868</color>
+<sales_price>680</sales_price>
+</item>
+<item>
+<product_id>5</product_id>
+<product_group_id>1</product_group_id>
+<title>Blusa super rosa</title>
+<description>High-waist midi skirt made of a viscose blend. Featuring a slit at the hem and invisible zip fastening.</description>
+<link>https://www.storyly.io/</link>
+<image_link>https://random-feed-generator.vercel.app/images/clothes/group-1/1-6D7868.jpg</image_link>
+<image_link>https://random-feed-generator.vercel.app/images/clothes/group-1/2-6D7868.jpg</image_link>
+<image_link>https://random-feed-generator.vercel.app/images/clothes/group-1/3-6D7868.jpg</image_link>
+<image_link>https://random-feed-generator.vercel.app/images/clothes/group-1/4-6D7868.jpg</image_link>
+<availability>in stock</availability>
+<price>250</price>
+<size>XL</size>
+<color>#6D7868</color>
+<sales_price>300</sales_price>
+</item>
+<item>
+<product_id>6</product_id>
+<product_group_id>1</product_group_id>
+<title>Blusa super roja</title>
+<description>High-waist midi skirt made of a viscose blend. Featuring a slit at the hem and invisible zip fastening.</description>
+<link>https://www.storyly.io/</link>
+<image_link>https://random-feed-generator.vercel.app/images/clothes/group-1/1-282025.jpg</image_link>
+<image_link>https://random-feed-generator.vercel.app/images/clothes/group-1/2-282025.jpg</image_link>
+<image_link>https://random-feed-generator.vercel.app/images/clothes/group-1/3-282025.jpg</image_link>
+<image_link>https://random-feed-generator.vercel.app/images/clothes/group-1/4-282025.jpg</image_link>
+<availability>in stock</availability>
+<price>300.00</price>
+<size>XS</size>
+<color>#282025</color>
+<sales_price>500.00</sales_price>
+</item>
+<item>
+<product_id>7</product_id>
+<product_group_id>1</product_group_id>
+<title>Playera</title>
+<description>High-waist midi skirt made of a viscose blend. Featuring a slit at the hem and invisible zip fastening.</description>
+<link>https://www.storyly.io/</link>
+<image_link>https://random-feed-generator.vercel.app/images/clothes/group-1/1-282025.jpg</image_link>
+<image_link>https://random-feed-generator.vercel.app/images/clothes/group-1/2-282025.jpg</image_link>
+<image_link>https://random-feed-generator.vercel.app/images/clothes/group-1/3-282025.jpg</image_link>
+<image_link>https://random-feed-generator.vercel.app/images/clothes/group-1/4-282025.jpg</image_link>
+<availability>in stock</availability>
+<price>800.00</price>
+<size>S</size>
+<color>#282025</color>
+<sales_price>850.00</sales_price>
+</item>
+<item>
+<product_id>8</product_id>
+<product_group_id>1</product_group_id>
+<title>Falda corta 2/title>
+<description>High-waist midi skirt made of a viscose blend. Featuring a slit at the hem and invisible zip fastening.</description>
+<link>https://www.storyly.io/</link>
+<image_link>https://random-feed-generator.vercel.app/images/clothes/group-1/1-282025.jpg</image_link>
+<image_link>https://random-feed-generator.vercel.app/images/clothes/group-1/2-282025.jpg</image_link>
+<image_link>https://random-feed-generator.vercel.app/images/clothes/group-1/3-282025.jpg</image_link>
+<image_link>https://random-feed-generator.vercel.app/images/clothes/group-1/4-282025.jpg</image_link>
+<availability>in stock</availability>
+<price>350.00</price>
+<size>M</size>
+<color>#282025</color>
+<sales_price>400.00</sales_price>
+</item>
+<item>
+<product_id>9</product_id>
+<product_group_id>1</product_group_id>
+<title>Pantalon super BAZ</title>
+<description>High-waist midi skirt made of a viscose blend. Featuring a slit at the hem and invisible zip fastening.</description>
+<link>https://www.storyly.io/</link>
+<image_link>https://random-feed-generator.vercel.app/images/clothes/group-1/1-282025.jpg</image_link>
+<image_link>https://random-feed-generator.vercel.app/images/clothes/group-1/2-282025.jpg</image_link>
+<image_link>https://random-feed-generator.vercel.app/images/clothes/group-1/3-282025.jpg</image_link>
+<image_link>https://random-feed-generator.vercel.app/images/clothes/group-1/4-282025.jpg</image_link>
+<availability>in stock</availability>
+<price>785.0</price>
+<size>L</size>
+<color>#282025</color>
+<sales_price>788.00</sales_price>
+</item>
+<item>
+<product_id>10</product_id>
+<product_group_id>1</product_group_id>
+<title>Falda XS</title>
+<description>High-waist midi skirt made of a viscose blend. Featuring a slit at the hem and invisible zip fastening.</description>
+<link>https://www.storyly.io/</link>
+<image_link>https://random-feed-generator.vercel.app/images/clothes/group-1/1-282025.jpg</image_link>
+<image_link>https://random-feed-generator.vercel.app/images/clothes/group-1/2-282025.jpg</image_link>
+<image_link>https://random-feed-generator.vercel.app/images/clothes/group-1/3-282025.jpg</image_link>
+<image_link>https://random-feed-generator.vercel.app/images/clothes/group-1/4-282025.jpg</image_link>
+<availability>in stock</availability>
+<price>450.00</price>
+<size>XL</size>
+<color>#282025</color>
+<sales_price>455.00</sales_price>
+</item>
+<item>
+<product_id>94</product_id>
+<product_group_id>1</product_group_id>
+<title>Super mini falda</title>
+<description>White basic trainers. Tag detail on the laces.</description>
+<link>https://www.storyly.io/</link>
+<image_link>https://random-feed-generator.vercel.app/images/clothes/group-11/1.jpg</image_link>
+<image_link>https://random-feed-generator.vercel.app/images/clothes/group-11/2.jpg</image_link>
+<image_link>https://random-feed-generator.vercel.app/images/clothes/group-11/3.jpg</image_link>
+<availability>in stock</availability>
+<price>580.00</price>
+<size>42</size>
+<color/>
+<sales_price>600.00</sales_price>
+</item>
+<item>
+<product_id>95</product_id>
+<product_group_id>1</product_group_id>
+<title>Super mini falda 2</title>
+<description>White basic trainers. Tag detail on the laces.</description>
+<link>https://www.storyly.io/</link>
+<image_link>https://random-feed-generator.vercel.app/images/clothes/group-11/1.jpg</image_link>
+<image_link>https://random-feed-generator.vercel.app/images/clothes/group-11/2.jpg</image_link>
+<image_link>https://random-feed-generator.vercel.app/images/clothes/group-11/3.jpg</image_link>
+<availability>in stock</availability>
+<price>700.00</price>
+<size>42</size>
+<color/>
+<sales_price>750.00</sales_price>
+</item>
+</channel>
+</rss>
