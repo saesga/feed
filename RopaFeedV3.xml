@@ -11,7 +11,7 @@
 		<product_group_id>1</product_group_id>
 		<title>Pantalon 1</title>
 		<description>Descripción del producto 1</description>
-		<link>gssapp://sapp?flowName=GSIFGms</link>
+		<link>https://www.baz.app/</link>
 		<image_link>https://random-feed-generator.vercel.app/images/clothes/group-1/1-6D7868.jpg</image_link>
 		<image_link>https://random-feed-generator.vercel.app/images/clothes/group-1/2-6D7868.jpg</image_link>
 		<image_link>https://random-feed-generator.vercel.app/images/clothes/group-1/3-6D7868.jpg</image_link>
