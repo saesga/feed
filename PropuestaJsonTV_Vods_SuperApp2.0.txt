@@ -1,0 +1,184 @@
+-----TV
+
+Sección TV. – Lista de horarios
+
+{
+  "mensaje": "Operación Exitosa.",
+  "folio": "kioapigeermczdev01-16075-1106504-1",
+  "resultado": {
+    "urlPublicidadGeneral": "https://pubads.g.doubleclick.net/gampad/live/ads?iu=/29782907/Apps-Azteca/App-Envivo-2020/EnVivo/Azteca-Uno&description_url=&url=&env=vp&impl=s&tfcd=0&npa=0&gdfp_req=1&output=vast&sz=640x480&unviewed_position_start=1&ad_rule=1&correlator=",
+    "horarios": [
+      {
+        "horaInicio": "12:00",
+        "horaFin": "13:00",
+      },
+      {
+        "horaInicio": "13:00",
+        "horaFin": "15:30",
+      }
+    ]
+  },
+  "advertencias": false
+}
+
+
+Sección TV. – Lista de canales con cartelera o transmisiones en vivo.
+
+{
+  "mensaje": "Operación Exitosa.",
+  "folio": "kioapigeermczdev01-16075-1106504-1",
+  "resultado": {
+    "urlPublicidadGeneral": "https://pubads.g.doubleclick.net/gampad/live/ads?iu=/29782907/Apps-Azteca/App-Envivo-2020/EnVivo/Azteca-Uno&description_url=&url=&env=vp&impl=s&tfcd=0&npa=0&gdfp_req=1&output=vast&sz=640x480&unviewed_position_start=1&ad_rule=1&correlator=",
+    "canales": [
+      {
+        "id": "1",
+        "nombre": "Azteca Uno",
+        "genero": "Entretenimiento",
+        "urlImagen": "https://tvazteca.brightspotcdn.com/dims4/default/4d24aac/2147483647/strip/true/crop/512x341+0+85/resize/300x200!/quality/90/?url=https%3A%2F%2Ftvazteca.brightspotcdn.com%2F87%2Fa7%2F41466180494a863ef1f4aca5d7f0%2Fazteca-uno-cuadrado-2.png",
+        "urlAnuncios": "/29782907/Apps-Azteca/App-Envivo-2020/EnVivo/Azteca-Uno",
+        "urlPublicidad": "https://pubads.g.doubleclick.net/gampad/live/ads?iu=/29782907/Apps-Azteca/App-Envivo-2020/EnVivo/Azteca-Uno&description_url=&url=&env=vp&impl=s&tfcd=0&npa=0&gdfp_req=1&output=vast&sz=640x480&unviewed_position_start=1&ad_rule=1&correlator=",
+        "recomendado": true,
+        "programas": 
+          {
+            "nombre": "Survivor",
+            "descripcion": "Survivor México, el reality de supervivencia donde veinticuatro participantes divididos en dos tribus buscarán las estrategias necesarias para ganar recompensas para su supervivencia y sólo uno ganará dos millones de pesos.",
+            "fechaHoraInicio": "2021-06-19 13:30:00",
+            "fechaHoraFin": "2021-06-19 14:30:00",
+            "urlImagen": "https://tvazteca.brightspotcdn.com/dims4/default/0b138df/2147483647/strip/true/crop/195x130+0+64/resize/300x200!/quality/90/?url=https%3A%2F%2Ftvazteca.brightspotcdn.com%2F1e%2F18%2F78d199034428832966733b728a48%2Fdiseno-sin-titulo.jpg",
+            "logoMiniatura": "https://tvazteca.brightspotcdn.com/dims4/default/0b138df/2147483647/strip/true/crop/195x130+0+64/resize/300x200!/quality/90/?url=https%3A%2F%2Ftvazteca.brightspotcdn.com%2F1e%2F18%2F78d199034428832966733b728a48%2Fdiseno-sin-titulo.jpg",
+            "bloqueda": false,
+            "directa": false,
+            "enVivo": false,
+            "video": {
+              "id": "ZyR7aLo4Rom-9KzwcLCoNg",
+              "tipoFormato": "video",
+              "url": "https://dai.google.com/linear/hls/event/ZyR7aLo4Rom-9KzwcLCoNg/master.m3u8"
+            }
+          }
+      }
+    ]
+  },
+  "advertencias": false
+}
+
+
+
+-----VODS
+
+Sección Home. - Recuperar la lista de programas por sección
+Sección SubHome. - Lista de vods por categoría.
+Sección lista de Video. - Mostrar títulos o nombre de vods como chips.
+Sección lista de Video. – “También te puede gustar”
+Sección SubHome- Buscador
+
+{
+  "mensaje": "Operación Exitosa.",
+  "folio": "kioapigeermczdev01-16075-1106504-1",
+  "resultado": {
+    "seccionesSuperApp": [
+      {
+        "canalTv": "Azteca 7",
+        "home":true,
+        "mostrarMas":true,
+        "tipoImagenAMostrar":"horizontal",
+        "descripcionSitio":"Sitio de dicado a programas destacados",
+        "secciones": [
+          {
+            "idSeccion": "001",
+            "nombreSeccion": "Var Doha",
+            "nombreCategoria": "Depotes",
+            "urlImagenMiniatura": "https://tvazteca.brightspotcdn.com/dims4/default/2e39195/2147483647/strip/true/crop/1620x1080+150+0/resize/300x200!/quality/90/?url=https%3A%2F%2Ftvazteca.brightspotcdn.com%2F51%2F96%2F619364be44a6adaf59637fd2bce6%2Fmasterchefjr-verde.png",
+            "urlImagen": "https://tvazteca.brightspotcdn.com/1b/59/b1e6bb3349be8c5b08777e41934d/portada-masterchef-junior.png",
+            "urlImagenVertical": "https://tvazteca.brightspotcdn.com/07/71/c12228354bbf966b362a779e1084/academia-120.png",
+            "fechaActualizacion": "2022-11-29 16:26:28",
+            "url": "https://www.tvazteca.com/superapp/vod/azteca-deportes/var-doha",
+            "vastUrl": "https://pubads.g.doubleclick.net/gampad/ads?iu=/29782907/Super-App/TV/Programas/La-Academia&description_url=https%3A%2F%2Fwww.baz.app%2F&tfcd=0&npa=0&sz=640x480%7C320x50&cust_params=adrule%3DMidroll&max_ad_duration=30000&gdfp_req=1&output=vast&unviewed_position_start=1&env=vp&correlator=[placeholder]&vpmute=0&vpa=auto&url=https%3A%2F%2Fwww.baz.app%2F&vpos=preroll&rdid=[placeholder]&is_lat=[placeholder]&an=baz-tu-superapp-con-todo",
+            "descripcion": "El Canal del Mundial",
+            "subcategorias": [
+              {
+                "id":"0000018c-b0d5-d4ff-a9fe-fdd5178d0000",
+                "nombrevod":"Venga la alegria 1"
+              },
+               {
+                "id":"0000018c-b0d5-d4ff-a9fe-fdd5178d0000",
+                "nombrevod":"Venga la alegria 1"
+              }
+              ] 
+            ] 
+          }
+        ],
+        "sugerenciavod": [
+          {
+            "canalTv": "Azteca 7",
+            "home":false,
+            "mostrarMas":false,
+            "tipoImagenAMostrar":"horizontal",
+            "descripcionSitio":"Sitio de dicado a programas destacados",
+            "secciones": [
+              {
+                "idSeccion": "001",
+                "nombreSeccion": "Var Doha",
+                "nombreCategoria": "Depotes",
+                "urlImagenMiniatura": "https://tvazteca.brightspotcdn.com/dims4/default/2e39195/2147483647/strip/true/crop/1620x1080+150+0/resize/300x200!/quality/90/?url=https%3A%2F%2Ftvazteca.brightspotcdn.com%2F51%2F96%2F619364be44a6adaf59637fd2bce6%2Fmasterchefjr-verde.png",
+                "urlImagen": "https://tvazteca.brightspotcdn.com/1b/59/b1e6bb3349be8c5b08777e41934d/portada-masterchef-junior.png",
+                "urlImagenVertical": "https://tvazteca.brightspotcdn.com/07/71/c12228354bbf966b362a779e1084/academia-120.png",
+                "fechaActualizacion": "2022-11-29 16:26:28",
+                "url": "https://www.tvazteca.com/superapp/vod/azteca-deportes/var-doha",
+                "vastUrl": "https://pubads.g.doubleclick.net/gampad/ads?iu=/29782907/Super-App/TV/Programas/La-Academia&description_url=https%3A%2F%2Fwww.baz.app%2F&tfcd=0&npa=0&sz=640x480%7C320x50&cust_params=adrule%3DMidroll&max_ad_duration=30000&gdfp_req=1&output=vast&unviewed_position_start=1&env=vp&correlator=[placeholder]&vpmute=0&vpa=auto&url=https%3A%2F%2Fwww.baz.app%2F&vpos=preroll&rdid=[placeholder]&is_lat=[placeholder]&an=baz-tu-superapp-con-todo",
+                "descripcion": "El Canal del Mundial"
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  }
+}
+
+
+Sección SubHome. – Catalogo de categorías de los programas
+
+{
+  "mensaje": "Operación Exitosa.",
+  "folio": "kioapigeermczdev01-16075-1106504-1",
+  "resultado": {
+    "catalogovods": [
+      {
+        "id": "13332",
+        "categoria":"Entretenimiento",
+        "descripcion":"Categoria para entretenimiento"
+      }
+    ]
+  }
+}
+
+
+Sección lista de Video. - Lista de videos conforme al chip seleccionado
+Sección lista de Video. - Paginación
+
+{
+  "mensaje": "Operación Exitosa.",
+  "folio": "kioapigeermczdev01-16075-1106504-1",
+  "resultado": {
+    "nombreCategoria": "Programas MasterChef Junior",
+    "idCategoria": "C001",
+    "totalPaginas":"16",
+    "totalVideos":"1450",
+    "videos": [
+      {
+        "urlImagenMiniatura": "https://tvazteca.brightspotcdn.com/dims4/default/98b8f5f/2147483647/strip/true/crop/1080x720+100+0/resize/300x200!/quality/90/?url=https%3A%2F%2Ftvazteca.brightspotcdn.com%2Fa2%2F6d%2Ff60537e1485a8b78903c75da76d7%2Fmasterchef-junior-programa-completo.jpg",
+        "titulo": "Programa 2: ¡Los zombies invaden la cocina! | MasterChef Junior",
+        "descripcion":"Breve descripcion del vod",
+        "duracion":"40 min",
+        "url": "https://mdstrm.com/video/6222a95a6c2743082af05039.m3u8"
+      },
+      {
+        "urlImagenMiniatura": "https://tvazteca.brightspotcdn.com/dims4/default/9dd4b11/2147483647/strip/true/crop/1080x720+100+0/resize/300x200!/quality/90/?url=https%3A%2F%2Ftvazteca.brightspotcdn.com%2F1e%2Fed%2F02bc99d44023be21150b315c1265%2Fcopia-de-mc-junior-miniaturas.jpg",
+        "titulo": "Programa 1: ¡La cocina vuelve a ser cosa de niños! | MasterChef Junior",
+        "descripcion":"Breve descripcion del vod",
+        "duracion":"40 min",
+        "url": "https://mdstrm.com/video/62198afe26b4ac3c225c152b.m3u8"
+      }
+    ]
+  }
+}
