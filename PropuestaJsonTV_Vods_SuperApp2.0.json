@@ -95,14 +95,18 @@ Sección SubHome- Buscador
             "vastUrl": "https://pubads.g.doubleclick.net/gampad/ads?iu=/29782907/Super-App/TV/Programas/La-Academia&description_url=https%3A%2F%2Fwww.baz.app%2F&tfcd=0&npa=0&sz=640x480%7C320x50&cust_params=adrule%3DMidroll&max_ad_duration=30000&gdfp_req=1&output=vast&unviewed_position_start=1&env=vp&correlator=[placeholder]&vpmute=0&vpa=auto&url=https%3A%2F%2Fwww.baz.app%2F&vpos=preroll&rdid=[placeholder]&is_lat=[placeholder]&an=baz-tu-superapp-con-todo",
             "descripcion": "El Canal del Mundial",
             "subcategorias": [
-              {
-                "id":"0000018c-b0d5-d4ff-a9fe-fdd5178d0000",
-                "nombrevod":"Venga la alegria 1"
-              },
-               {
-                "id":"0000018c-b0d5-d4ff-a9fe-fdd5178d0000",
-                "nombrevod":"Venga la alegria 1"
-              }
+                {
+                  "id":"0000018c-b0d5-d4ff-a9fe-fdd5178d0000",
+                  "nombrevod":"Venga la alegria 1",
+                  "totalPages":10,
+                  "totalVideos":100,
+                },
+                 {
+                  "id":"0000018c-b0d5-d4ff-a9fe-fdd5178d0000",
+                  "nombrevod":"Venga la alegria 1",
+                  "totalPages":16,
+                  "totalVideos":1500
+                }
               ] 
             ] 
           }
