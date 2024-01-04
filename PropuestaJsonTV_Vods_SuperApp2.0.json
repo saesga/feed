@@ -68,10 +68,16 @@ Sección TV. – Lista de canales con cartelera o transmisiones en vivo.
 -----VODS
 
 Sección Home. - Recuperar la lista de programas por sección
+/videos/bajo-demanda/secciones
+
 Sección SubHome. - Lista de vods por categoría.
+/videos/bajo-demanda/secciones?paramCategoria=0000018c-b0d5-d4ff-a9fe-fdd5178d0000 
+
 Sección lista de Video. - Mostrar títulos o nombre de vods como chips.
 Sección lista de Video. – “También te puede gustar”
+
 Sección SubHome- Buscador
+/videos/bajo-demanda/secciones?paramBusqueda= alegr%C3%ADa
 
 {
   "mensaje": "Operación Exitosa.",
@@ -188,3 +194,40 @@ Sección lista de Video. - Paginación
     ]
   }
 }
+
+
+Sugerencia en el Orquestador:
+
+"app20":{
+  "secciones":{
+    "buscador":{
+      "categorias":[
+        {
+           "categoria":"Entretenimiento"
+        },
+        {
+           "categoria":"Reallity"
+        }
+       ],
+      "sugerencias":{
+        "numvod":10
+      }
+    },
+    "videos":{
+       "categorias":[
+        {
+           "categoria":"Entretenimiento"
+        },
+        {
+           "categoria":"Reallity"
+        }
+       ],
+      "sugerencias":{
+        "numvod":5
+      }
+    }
+  }
+}
+
+
+
