@@ -63,77 +63,71 @@ Sección SubHome- Buscador
 
 
 {
-  "mensaje": "Operación Exitosa.",
-  "folio": "kioapigeermczdev01-16075-1106504-1",
-  "resultado": {
-    "seccionesSuperApp": [
-      {
-        "canalTv": "Azteca 7",
-        "seeMore ":true,
-        "siteDescription ":"Sitio de dicado a programas destacados",
-        "promotional":"https://tvazteca.brightspotcdn.com/1b/59/b1e6bb3349be8c5b08777e41934d/portada-masterchef-junior.png",
-        "categoriaPrincipal":"Deportes"
-        "secciones": [
-          {
-            "idSeccion": "001",
-            "nombreSeccion": "Var Doha",
-            "nombreCategoria": "Depotes",
-            "urlImagenMiniatura": "https://tvazteca.brightspotcdn.com/dims4/default/2e39195/2147483647/strip/true/crop/1620x1080+150+0/resize/300x200!/quality/90/?url=https%3A%2F%2Ftvazteca.brightspotcdn.com%2F51%2F96%2F619364be44a6adaf59637fd2bce6%2Fmasterchefjr-verde.png",
-            "urlImagen": "https://tvazteca.brightspotcdn.com/1b/59/b1e6bb3349be8c5b08777e41934d/portada-masterchef-junior.png",
-            "urlImagenVertical": "https://tvazteca.brightspotcdn.com/07/71/c12228354bbf966b362a779e1084/academia-120.png",
-            "fechaActualizacion": "2022-11-29 16:26:28",
-            "url": "https://www.tvazteca.com/superapp/vod/azteca-deportes/var-doha",
-            "vastUrl": "https://pubads.g.doubleclick.net/gampad/ads?iu=/29782907/Super-App/TV/Programas/La-Academia&description_url=https%3A%2F%2Fwww.baz.app%2F&tfcd=0&npa=0&sz=640x480%7C320x50&cust_params=adrule%3DMidroll&max_ad_duration=30000&gdfp_req=1&output=vast&unviewed_position_start=1&env=vp&correlator=[placeholder]&vpmute=0&vpa=auto&url=https%3A%2F%2Fwww.baz.app%2F&vpos=preroll&rdid=[placeholder]&is_lat=[placeholder]&an=baz-tu-superapp-con-todo",
-            "descripcion": "El Canal del Mundial",
-            "urlImagenAMostrar":"https://....",
-            "topDescription":"Entretenimiento | Lunes a viernes 8:55 a.m | Azteca Uno",
-            "frontpageImgUrl":"https://....",
-            "subcategorias": [
-                {
-                  "id":"0000018c-b0d5-d4ff-a9fe-fdd5178d0000",
-                  "nombrevod":"Venga la alegria 1",
-                  "totalPages":10,
-                  "totalVideos":100,
-                },
-                 {
-                  "id":"0000018c-b0d5-d4ff-a9fe-fdd5178d0000",
-                  "nombrevod":"Venga la alegria 1",
-                  "totalPages":16,
-                  "totalVideos":1500
-                }
-              ] 
-            ] 
-          }
-        ],
-        "sugerenciavod": [
-          {
-            "canalTv": "Azteca 7",
+   "mensaje":"Operación Exitosa.",
+   "folio":"kioapigeermczdev01-16075-1106504-1",
+   "resultado":{
+      "seccionesSuperApp":[
+         {
+            "canalTv":"Azteca 7",
             "seeMore ":true,
             "siteDescription ":"Sitio de dicado a programas destacados",
             "promotional":"https://tvazteca.brightspotcdn.com/1b/59/b1e6bb3349be8c5b08777e41934d/portada-masterchef-junior.png",
-            "categoriaPrincipal":"Deportes"
-            "secciones": [
-              {
-                "idSeccion": "001",
-                "nombreSeccion": "Var Doha",
-                "nombreCategoria": "Depotes",
-                "urlImagenMiniatura": "https://tvazteca.brightspotcdn.com/dims4/default/2e39195/2147483647/strip/true/crop/1620x1080+150+0/resize/300x200!/quality/90/?url=https%3A%2F%2Ftvazteca.brightspotcdn.com%2F51%2F96%2F619364be44a6adaf59637fd2bce6%2Fmasterchefjr-verde.png",
-                "urlImagen": "https://tvazteca.brightspotcdn.com/1b/59/b1e6bb3349be8c5b08777e41934d/portada-masterchef-junior.png",
-                "urlImagenVertical": "https://tvazteca.brightspotcdn.com/07/71/c12228354bbf966b362a779e1084/academia-120.png",
-                "fechaActualizacion": "2022-11-29 16:26:28",
-                "url": "https://www.tvazteca.com/superapp/vod/azteca-deportes/var-doha",
-                "vastUrl": "https://pubads.g.doubleclick.net/gampad/ads?iu=/29782907/Super-App/TV/Programas/La-Academia&description_url=https%3A%2F%2Fwww.baz.app%2F&tfcd=0&npa=0&sz=640x480%7C320x50&cust_params=adrule%3DMidroll&max_ad_duration=30000&gdfp_req=1&output=vast&unviewed_position_start=1&env=vp&correlator=[placeholder]&vpmute=0&vpa=auto&url=https%3A%2F%2Fwww.baz.app%2F&vpos=preroll&rdid=[placeholder]&is_lat=[placeholder]&an=baz-tu-superapp-con-todo",
-                "descripcion": "El Canal del Mundial",
-                "urlImagenAMostrar":"https://....",
-                "topDescription":"Entretenimiento | Lunes a viernes 8:55 a.m | Azteca Uno",
-                "frontpageImgUrl":"https://...."
-              }
+            "categoriaPrincipal":"Deportes",
+            "buscador":{
+               "iniciado":true,
+               "encontrado":false
+            },
+            "secciones":[
+               {
+                  "idSeccion":"001",
+                  "nombreSeccion":"Var Doha",
+                  "nombreCategoria":"Depotes",
+                  "urlImagenMiniatura":"https://tvazteca.brightspotcdn.com/dims4/default/2e39195/2147483647/strip/true/crop/1620x1080+150+0/resize/300x200!/quality/90/?url=https%3A%2F%2Ftvazteca.brightspotcdn.com%2F51%2F96%2F619364be44a6adaf59637fd2bce6%2Fmasterchefjr-verde.png",
+                  "urlImagen":"https://tvazteca.brightspotcdn.com/1b/59/b1e6bb3349be8c5b08777e41934d/portada-masterchef-junior.png",
+                  "urlImagenVertical":"https://tvazteca.brightspotcdn.com/07/71/c12228354bbf966b362a779e1084/academia-120.png",
+                  "fechaActualizacion":"2022-11-29 16:26:28",
+                  "url":"https://www.tvazteca.com/superapp/vod/azteca-deportes/var-doha",
+                  "vastUrl":"https://pubads.g.doubleclick.net/gampad/ads?iu=/29782907/Super-App/TV/Programas/La-Academia&description_url=https%3A%2F%2Fwww.baz.app%2F&tfcd=0&npa=0&sz=640x480%7C320x50&cust_params=adrule%3DMidroll&max_ad_duration=30000&gdfp_req=1&output=vast&unviewed_position_start=1&env=vp&correlator=[placeholder]&vpmute=0&vpa=auto&url=https%3A%2F%2Fwww.baz.app%2F&vpos=preroll&rdid=[placeholder]&is_lat=[placeholder]&an=baz-tu-superapp-con-todo",
+                  "descripcion":"El Canal del Mundial",
+                  "urlImagenAMostrar":"https://....",
+                  "topDescription":"Entretenimiento | Lunes a viernes 8:55 a.m | Azteca Uno",
+                  "frontpageImgUrl":"https://....",
+                  "subcategorias":[
+                     {
+                        "id":"0000018c-b0d5-d4ff-a9fe-fdd5178d0000",
+                        "nombrevod":"Venga la alegria 1",
+                        "totalPages":10,
+                        "totalVideos":100
+                     },
+                     {
+                        "id":"0000018c-b0d5-d4ff-a9fe-fdd5178d0000",
+                        "nombrevod":"Venga la alegria 1",
+                        "totalPages":16,
+                        "totalVideos":1500
+                     }
+                  ],
+                  "sugerenciasvod":[
+                     {
+                        "idSeccion":"001",
+                        "nombreSeccion":"Var Doha",
+                        "nombreCategoria":"Depotes",
+                        "urlImagenMiniatura":"https://tvazteca.brightspotcdn.com/dims4/default/2e39195/2147483647/strip/true/crop/1620x1080+150+0/resize/300x200!/quality/90/?url=https%3A%2F%2Ftvazteca.brightspotcdn.com%2F51%2F96%2F619364be44a6adaf59637fd2bce6%2Fmasterchefjr-verde.png",
+                        "urlImagen":"https://tvazteca.brightspotcdn.com/1b/59/b1e6bb3349be8c5b08777e41934d/portada-masterchef-junior.png",
+                        "urlImagenVertical":"https://tvazteca.brightspotcdn.com/07/71/c12228354bbf966b362a779e1084/academia-120.png",
+                        "fechaActualizacion":"2022-11-29 16:26:28",
+                        "url":"https://www.tvazteca.com/superapp/vod/azteca-deportes/var-doha",
+                        "vastUrl":"https://pubads.g.doubleclick.net/gampad/ads?iu=/29782907/Super-App/TV/Programas/La-Academia&description_url=https%3A%2F%2Fwww.baz.app%2F&tfcd=0&npa=0&sz=640x480%7C320x50&cust_params=adrule%3DMidroll&max_ad_duration=30000&gdfp_req=1&output=vast&unviewed_position_start=1&env=vp&correlator=[placeholder]&vpmute=0&vpa=auto&url=https%3A%2F%2Fwww.baz.app%2F&vpos=preroll&rdid=[placeholder]&is_lat=[placeholder]&an=baz-tu-superapp-con-todo",
+                        "descripcion":"El Canal del Mundial",
+                        "urlImagenAMostrar":"https://....",
+                        "topDescription":"Entretenimiento | Lunes a viernes 8:55 a.m | Azteca Uno",
+                        "frontpageImgUrl":"https://...."
+                     }
+                  ]
+               }
             ]
-          }
-        ]
-      }
-    ]
-  }
+         }
+      ]
+   }
 }
 
 
@@ -187,6 +181,11 @@ Sugerencia en el Orquestador:
 
 "app20":{
   "secciones":{
+    "inicio":{
+      "sugerencias":{
+        "numvod":5
+      }
+    },
     "buscador":{
       "categorias":[
         {
@@ -212,7 +211,11 @@ Sugerencia en el Orquestador:
       "sugerencias":{
         "numvod":5
       }
+    },
+    "paginacion":{
+      "numvideoporpagina":50
     }
+
   }
 }
 
